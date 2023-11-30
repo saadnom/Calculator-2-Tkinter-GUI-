@@ -21,4 +21,5 @@ Ensure proper handling of errors, such as division by zero or invalid input.
 
 **Tkinter Main Loop:**
 Start the Tkinter event loop to run the GUI application, allowing users to interact with the calculator.
+
 A simple calculator in Tkinter involves creating a user-friendly interface with buttons and incorporating logic to handle user input and perform calculations. The design should consider both the visual representation and the underlying functionality of the calculator.
